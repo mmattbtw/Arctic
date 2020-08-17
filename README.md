@@ -1,5 +1,6 @@
-# Arctic
-Arctic bot for Discord. https://arcticbot.com
+# Arctic 
+Arctic bot for Discord. https://arcticbot.com<br><br>
+[![Discord Bots](https://top.gg/api/widget/674432747535597579.svg)](https://top.gg/bot/674432747535597579)
 
 # Future plans
 Arctic will soon be much more personalized! Here’s some things that are planned:
@@ -11,3 +12,4 @@ Arctic will soon be much more personalized! Here’s some things that are planne
 
 # Known bugs
 ❌ None!
+
