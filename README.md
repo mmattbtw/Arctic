@@ -8,3 +8,6 @@ Arctic will soon be much more personalized! Here’s some things that are planne
 
 <h5>⭐️ Premium</h5>
 <h5>🆓 Free</h5>
+
+# Known bugs
+❌ None!
