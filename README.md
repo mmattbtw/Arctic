@@ -4,9 +4,9 @@ Arctic bot for Discord. https://arcticbot.com<br><br>
 [![Discord Bots](https://top.gg/api/widget/upvotes/674432747535597579.svg?noavatar=true)](https://top.gg/bot/674432747535597579)
 [![Discord Bots](https://top.gg/api/widget/lib/674432747535597579.svg?noavatar=true)](https://top.gg/bot/674432747535597579)
 [![Discord Bots](https://discordbots.org/api/widget/owner/674432747535597579.svg?noavatar=true)](https:/top.gg/bot/674432747535597579)
-[![GitHub Issues](https://img.shields.io/github/issues/x-corporation/arctic)](https://github.com/x-corporation/arctic/issues)
-[![GitHub forks](https://img.shields.io/github/forks/x-corporation/arctic)](https://github.com/x-corporation/arctic/network/members)
-[![GitHub Stars](https://img.shields.io/github/stars/x-corporation/arctic)](https://github.com/x-corporation/arctic/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/x-corporation/arctic?style=flat-square)](https://github.com/x-corporation/arctic/issues)
+[![GitHub forks](https://img.shields.io/github/forks/x-corporation/arctic?style=flat-square)](https://github.com/x-corporation/arctic/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/x-corporation/arctic?style=flat-square)](https://github.com/x-corporation/arctic/stargazers)
 <span class="badge-patreon"><a href="https://www.patreon.com/arcticbot" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
 # Future plans
