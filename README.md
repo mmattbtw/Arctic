@@ -7,7 +7,7 @@ Arctic bot for Discord. https://arcticbot.com<br><br>
 [![GitHub Issues](https://img.shields.io/github/issues/x-corporation/arctic?style=flat-square)](https://github.com/x-corporation/arctic/issues)
 [![GitHub forks](https://img.shields.io/github/forks/x-corporation/arctic?style=flat-square)](https://github.com/x-corporation/arctic/network/members)
 [![GitHub Stars](https://img.shields.io/github/stars/x-corporation/arctic?style=flat-square)](https://github.com/x-corporation/arctic/stargazers)
-<span class="badge-patreon"><a href="https://www.patreon.com/arcticbot" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+<span class="badge-patreon"><a href="https://www.patreon.com/arcticbot" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg?style=flat-square" alt="Patreon donate button" /></a></span>
 
 # Future plans
 Arctic will soon be much more personalized! Here’s some things that are planned:
