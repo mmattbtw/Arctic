@@ -18,7 +18,7 @@ And much more coming soon!
 [![GitHub forks](https://img.shields.io/github/forks/x-corporation/arctic?style=for-the-badge)](https://github.com/x-corporation/arctic/network/members)
 [![GitHub Stars](https://img.shields.io/github/stars/x-corporation/arctic?style=for-the-badge)](https://github.com/x-corporation/arctic/stargazers)
 <span class="badge-patreon"><a href="https://www.patreon.com/arcticbot" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg?style=for-the-badge" alt="Patreon donate button" /></a></span>
-[![Arctic Support Discord](https://img.shields.io/discord/683328668470476860?color=blue&logo=Discord&style=for-the-badge)](https://discord.gg/FSGybPu)
+[![Arctic Support Discord](https://img.shields.io/discord/683328668470476860?color=blue&logo=Discord&style=for-the-badge)](https://discord.gg/dXNGPMF)
 
 # Future plans
 Arctic will soon be much more personalized! Here’s some things that are planned:
