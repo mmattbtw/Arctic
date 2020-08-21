@@ -25,6 +25,12 @@ Arctic will soon be much more personalized! Here’s some things that are planne
 - [ ] You will be able to set a name for your Arctic profile. This name will be used all across Arctic in commands,<br>error messages and more! 🆓
 - [ ] Daily briefings. If you are offline for more than 8 hours, Arctic will send you some info when you get back online! ⭐️ 
 
+Arctic will soon have more auto-moderation features:
+- [ ] Anti-capitals (not done)
+- [ ] Improved anti-spam (almost done)
+- [ ] Word blacklist (done)
+- [ ] Anti-spoilers (not done)
+
 <h6>⭐️ - Premium</h6>
 <h6>🆓 - Free</h6>
 
