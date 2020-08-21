@@ -32,7 +32,7 @@ Arctic will soon have more auto-moderation features:
 - [ ] Anti-spoilers (not done)
 - [ ] Anti-mass-emoji (not done)
 - [ ] Anti-link (not done)
-- [ ] Anti-repeated-text (cancelled for now)
+- [ ] Anti-zalgo (not done)
 
 <h6>⭐️ - Premium</h6>
 <h6>🆓 - Free</h6>
