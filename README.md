@@ -1,5 +1,15 @@
 # [Arctic](https://arcticbot.com) 
-Arctic bot for Discord. https://arcticbot.com<br><br>
+Arctic is a feature-rich moderation, utility and social bot. It has features such as: 
+- [x] Anti-spam, anti-invite & anti-swear
+- [x] Customizable welcome/leave messages
+- [x] Custom profile system
+- [x] Discord.bio integration
+- [x] Moderation commands
+- [x] Polls
+- [x] Suggestion system
+
+And much more coming soon!
+
 [![Discord Bots](https://top.gg/api/widget/status/674432747535597579.svg)](https://top.gg/bot/674432747535597579)
 [![Discord Bots](https://top.gg/api/widget/upvotes/674432747535597579.svg?noavatar=true)](https://top.gg/bot/674432747535597579)
 [![Discord Bots](https://top.gg/api/widget/lib/674432747535597579.svg?noavatar=true)](https://top.gg/bot/674432747535597579)
