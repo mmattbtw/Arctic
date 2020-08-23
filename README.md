@@ -26,14 +26,14 @@ Arctic will soon be much more personalized! Here’s some things that are planne
 - [ ] Daily briefings. If you are offline for more than 8 hours, Arctic will send you some info when you get back online! ⭐️ 
 
 Arctic will soon have more auto-moderation features:
-- [ ] Anti-capitals (Done. Not added to bot.)
-- [ ] Improved anti-spam (Almost done)
-- [ ] Word blacklist (Done. Not added to bot.)
-- [ ] Anti-spoilers (Not done)
-- [ ] Anti-mass-emoji (Almost done)
-- [ ] Anti-link (Almost done)
-- [ ] Anti-zalgo (Not done)
-- [ ] Anti-flood (Done. Not added to bot.)
+- [ ] Anti-capitals (Done. Not added to bot.) 🆓
+- [ ] Improved anti-spam (Almost done) 🆓
+- [ ] Word blacklist (Done. Not added to bot.) 🆓
+- [ ] Anti-spoilers (Done. Not added to bot.) 🆓 
+- [ ] Anti-mass-emoji (Almost done) 🆓
+- [ ] Anti-link (Almost done) 🆓
+- [ ] Anti-zalgo (Not done) ⭐️ 
+- [ ] Anti-flood (Done. Not added to bot.) 🆓
 
 <h6>⭐️ - Premium</h6>
 <h6>🆓 - Free</h6>
