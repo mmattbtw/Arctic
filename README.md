@@ -34,6 +34,8 @@ Arctic will soon have more auto-moderation features:
 - [ ] Anti-link (Almost done) 🆓
 - [ ] Anti-zalgo (Not done) ⭐️ 
 - [ ] Anti-flood (Done. Not added to bot.) 🆓
+- [ ] Anti-mass-mention (Not done) 🆓
+
 
 <h6>⭐️ - Premium</h6>
 <h6>🆓 - Free</h6>
