@@ -30,8 +30,8 @@ Arctic will soon have more auto-moderation features:
 - [ ] Improved anti-spam (Almost done) 🆓
 - [ ] Word blacklist (Done. Not added to bot.) 🆓
 - [ ] Anti-spoilers (Done. Not added to bot.) 🆓 
-- [ ] Anti-mass-emoji (Almost done) 🆓
-- [ ] Anti-link (Almost done) 🆓
+- [ ] Anti-mass-emoji (Done. Not added to bot.) 🆓
+- [ ] Anti-link (Done. Not added to bot.) 🆓
 - [ ] Anti-zalgo (Done. Not added to bot.) ⭐️ 
 - [ ] Anti-flood (Done. Not added to bot.) 🆓
 - [ ] Anti-mass-mention (Done. Not added to bot.) 🆓
