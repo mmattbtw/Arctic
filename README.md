@@ -32,7 +32,7 @@ Arctic will soon have more auto-moderation features:
 - [ ] Anti-spoilers (Done. Not added to bot.) 🆓 
 - [ ] Anti-mass-emoji (Almost done) 🆓
 - [ ] Anti-link (Almost done) 🆓
-- [ ] Anti-zalgo (Not done) ⭐️ 
+- [ ] Anti-zalgo (Done. Not added to bot.) ⭐️ 
 - [ ] Anti-flood (Done. Not added to bot.) 🆓
 - [ ] Anti-mass-mention (Done. Not added to bot.) 🆓
 
