@@ -1,6 +1,6 @@
 # [Arctic](https://arcticbot.com) 
 Arctic is a feature-rich moderation, utility and social bot. It has features such as: 
-- [x] Anti-spam, anti-invite & anti-swear
+- [x] Anti-spam, anti-invite, anti-link, anti-mass-emoji, anti-spoilers, anti-capitals, anti-zalgo, anti-mass-mention, anti-flood and a word filter!!
 - [x] Customizable welcome/leave messages
 - [x] Custom profile system
 - [x] Discord.bio integration
@@ -26,15 +26,15 @@ Arctic will soon be much more personalized! Here’s some things that are planne
 - [ ] Daily briefings. If you are offline for more than 8 hours, Arctic will send you some info when you get back online! ⭐️ 
 
 Arctic will soon have more auto-moderation features:
-- [ ] Anti-capitals (Done. Not added to bot.) 🆓
-- [ ] Improved anti-spam (Almost done) 🆓
-- [ ] Word blacklist (Done. Not added to bot.) 🆓
-- [ ] Anti-spoilers (Done. Not added to bot.) 🆓 
-- [ ] Anti-mass-emoji (Done. Not added to bot.) 🆓
-- [ ] Anti-link (Done. Not added to bot.) 🆓
-- [ ] Anti-zalgo (Done. Not added to bot.) ⭐️ 
-- [ ] Anti-flood (Done. Not added to bot.) 🆓
-- [ ] Anti-mass-mention (Done. Not added to bot.) 🆓
+- [x] Anti-capitals (Done.) 🆓
+- [x] Improved anti-spam (Done.) 🆓
+- [x] Word blacklist (Done.) 🆓
+- [x] Anti-spoilers (Done.) 🆓 
+- [x] Anti-mass-emoji (Done.) 🆓
+- [x] Anti-link (Done.) 🆓
+- [x] Anti-zalgo (Done.) ⭐️ 
+- [x] Anti-flood (Done.) 🆓
+- [x] Anti-mass-mention (Done.) 🆓
 
 
 <h6>⭐️ - Premium</h6>
